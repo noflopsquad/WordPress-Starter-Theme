@@ -2,3 +2,10 @@
 node_modules
 .sass-cache
 .idea
+assets/js/main.min.js
+assets/js/main.min.js.map
+assets/js/plugins.min.js
+assets/js/plugins.min.js.map
+assets/styles/build/
+npm-debug.log
+style.css
